@@ -170,8 +170,9 @@ nav #menu li a:hover {
 #resize #menu {
   border: 1px solid darkblue;
   position: absolute;
-  left: 45px;
-  transform: translateY(-30%);
+  left: 45%;
+  height: 90px;
+  transform: translateX(-40%);
   text-align: center;
   display: table-cell;
   vertical-align: center;
